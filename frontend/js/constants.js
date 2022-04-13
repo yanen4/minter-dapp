@@ -1,8 +1,8 @@
 const contractAddress = "0x1225bd885b9DC5744229D59B4002f59567Cfd799"; //Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the StickFightz NFT Project!";
-const welcome_h2 = "Connect to MetaMask to Get Started";
+const welcome_h1 = "Welcome to StickFightz!";
+const welcome_h2 = "";
 const welcome_p = 'The first StickFightZ collection consists of 777 unique illustrations, each containing a fierce stickman warrior performing a unique technique. We have borrowed from over 50 different martial arts from all around the world to create our deadly arsenal.';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
